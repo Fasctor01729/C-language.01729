@@ -28,4 +28,5 @@ Psudo code :
    End Factorialofnumber
 
    Flow chart
+   ![Factorial Image](Untitled Diagram.drawio.png)
    
