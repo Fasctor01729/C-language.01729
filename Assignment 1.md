@@ -22,11 +22,10 @@ Psudo code :
 4. For I=1 to N do
 5. Variable fact = Fact *I
 6. End for
-
 7. Output " Fact is; ", Fact
-
-   End Factorialofnumber
+8. End Factorialofnumber
 
    Flow chart
+   
    ![Factorial Image](Untitled%20Diagram.drawio.png)
    
