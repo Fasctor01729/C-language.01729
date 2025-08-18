@@ -27,5 +27,5 @@ Psudo code :
 
    Flow chart
    
-   ![Factorial Image](Untitled%20Diagram.drawio.png)
+   ![Factorial Image](Untitled%20Diagram.drawio(1).png)
    
