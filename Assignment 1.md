@@ -49,20 +49,20 @@ Output: "Prime" or "Not Prime"
    8. Output "Prime".
 
  Pseudo code:
-  1. START
-  2.INPUT N
-  3.IF N <= 1 THEN
-  4.PRINT "Not Prime"
-  5.STOP
-  6.ENDIF
-  7.SET is Prime = true
-  8.FOR i = 2 To square root of (N) DO
-  9.IF N % i == 0 THEN
-  10.PRINT "Not Prime"
-  11.STOP
-  12.END for
-  13.PRINT "Prime"
-  14.END
+  1. START   
+  2.INPUT N   
+  3.IF N <= 1 THEN    
+  4.PRINT "Not Prime"   
+  5.STOP    
+  6.ENDIF    
+  7.SET is Prime = true   
+  8.FOR i = 2 To square root of (N) DO    
+  9.IF N % i == 0 THEN    
+  10.PRINT "Not Prime"    
+  11.STOP     
+  12.END for    
+  13.PRINT "Prime"    
+  14.END    
 
    Flow chart
  
