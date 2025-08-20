@@ -32,4 +32,40 @@ Psudo code :
 
 ---
 
+Problem 2: Intermediate
+Check if a number is prime
+
+Input: A positive integer N
+
+Output: "Prime" or "Not Prime"
+ Algorithm :
+   1. START
+   2. Input: Positive integer N.
+   3. If N ≤ 1, output "Not Prime" and stop.
+   4. For i from 2 to √N (i*i ≤ N)
+   5.If N is divisible by i (, N % i == 0):
+   6.Output "Not Prime" and stop.
+   7.If no divisors found in the above loop:
+   8. Output "Prime".
+
+ Pseudo code:
+  1. START
+  2.INPUT N
+  3.IF N <= 1 THEN
+  4.PRINT "Not Prime"
+  5.STOP
+  6.ENDIF
+  7.SET is Prime = true
+  8.FOR i = 2 To square root of (N) DO
+  9.IF N % i == 0 THEN
+  10.PRINT "Not Prime"
+  11.STOP
+  12.END for
+  13.PRINT "Prime"
+  14.END
+
+   Flow chart
+ 
+
+<img width="561" height="521" alt="Problem 2" src="https://github.com/user-attachments/assets/877f1c6d-ef1b-4e37-9f37-5447d3e4d17d" />
 
